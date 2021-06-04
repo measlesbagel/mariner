@@ -10,6 +10,7 @@ coverage
 coverage.xml
 frontend/dist/
 frontend/node_modules/
+frontend/storybook-static/
 *.deb
 
 dist/mariner-*
